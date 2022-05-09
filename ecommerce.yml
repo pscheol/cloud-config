@@ -1,5 +1,5 @@
 token:
-  expiration-time: 864
+  expiration-time: 864000000
   secret: user_token
 gateway:
   ip: 192.168.0.45
